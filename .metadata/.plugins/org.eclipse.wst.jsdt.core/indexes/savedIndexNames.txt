@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+G:\springboot\v2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

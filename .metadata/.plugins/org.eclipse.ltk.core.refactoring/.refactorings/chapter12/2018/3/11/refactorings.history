@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;chapter12/src/main/java/com/springboot/chapter12/mapper/RoleFile.xml&apos; to &apos;RoleMapper.xml&apos;" description="Rename resource &apos;RoleFile.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/springboot/chapter12/mapper/RoleFile.xml" name="RoleMapper.xml" stamp="1521034212812" updateReferences="true"/>
+</session>

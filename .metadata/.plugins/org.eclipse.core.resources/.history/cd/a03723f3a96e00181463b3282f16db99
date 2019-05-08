@@ -1,0 +1,12 @@
+package com.springboot.chapter4.main;
+
+import org.springframework.boot.builder.SpringApplicationBuilder;
+
+public class ServletInitializer extends SpringBootServletInitializer {
+
+	@Override
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(Chapter4Application.class);
+	}
+
+}
